@@ -21,3 +21,6 @@ birthday = datetime.datetime(1972,8,04)
 
 print "Birthday in ... ", now - birthday
 print "-" * 30
+
+print "test: {}".format(10)
+print "test: {}".format(20)
