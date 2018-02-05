@@ -25,3 +25,4 @@ print "-" * 30
 print "test: {}".format(10)
 print "test: {}".format(20)
 print "for commit -1 : {}".format(20)
+print "for commit -2 : {}".format(20)
